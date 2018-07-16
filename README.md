@@ -1,2 +1,3 @@
-# generative-adversarial-networks-meetup
-# Gan-tensorflow
+Generative adversarial network with tensorflow 
+
+
