@@ -26,4 +26,4 @@ Prerequisites
 
 Usage
 ========================
-choose between mnist or celib dtaset in the `main` finction.
+Choose between mnist or celib dataset in the `main` function.
